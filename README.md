@@ -1,4 +1,4 @@
-<h1 align=center>早上好或着晚上好</h3>
+<h1 align=center>Hi~</h3>
 <div align=center>
   <a href="https://inevernobody.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog~-%E5%8D%9A%E5%AE%A2~-blue"></a>&emsp;
   <a href="https://www.luogu.com.cn/blog/haoye/" target="_blank"><img src="https://img.shields.io/badge/BlogInLuogu~-洛谷博客~-black"></a>&emsp;
@@ -10,7 +10,7 @@
 <div align=center>
 <hr>
 <h2><strong>·</strong>&nbsp;&nbsp;&nbsp;&nbsp;关于我&nbsp;&nbsp;&nbsp;&nbsp;:exclamation:</h2><br>
-- 👋 Hi, I’m @iNeverNobody<br>
+- 👋 Hi, I’m @ShihanWu<br>
 - 👀 I’m interested in Nothing<br>
 - 🌱 I’m currently learning C++<br>
 - 💞️ I’m looking to collaborate on Nothing<br>
